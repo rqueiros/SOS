@@ -1,2 +1,3 @@
 # SOS
-A orchestration composer for micro-services based on JSON
+A orchestration composer for micro-services based on JSON.
+Soon available!
